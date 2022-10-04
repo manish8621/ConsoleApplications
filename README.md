@@ -6,6 +6,7 @@
 </ol>
 <div id="mailclient">
 <H1>MAIL CLIENT<H1>
+<pre>
 Mail client
 
 Audience : mail users
@@ -88,6 +89,6 @@ Technical details
  * it will be accessed by the controller classses
 
  * view classes do operations via controller classes
-
+</pre>
 </div>
 </div>
