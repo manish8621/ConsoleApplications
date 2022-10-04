@@ -2,7 +2,7 @@
 <div>
 
 <ol>
-<li><a href="#mailclient">Simple Mail Client - Java</li>
+    <li><a href="#mailclient">Simple Mail Client - Java</a> / <a href="#mailclient-output">output</a></li>
 </ol>
 <div id="mailclient">
 <H3>Mail client</H3>
@@ -75,17 +75,18 @@ MailDomain
     changeMobileNumber(String mobileNum)
     getNewMails()
 
-
-
 Rest of the functionalities will be provided by View,Controller Classes
 
-
-Technical details
+<h6>Technical details</h6>
 <ul>
  <li>MailDomain instance will be created at once </li>
  <li>it will be accessed by the controller classses</li>
  <li>view classes do operations via controller classes</li>
  </ul>
 </pre>
+</div>
+
+<div id="mailclient-output">
+OUTPUT
 </div>
 </div>
