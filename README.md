@@ -5,7 +5,7 @@
 <li><a href="#mailclient">Simple Mail Client - Java</li>
 </ol>
 <div id="mailclient">
-<H1>MAIL CLIENT<H1>
+<H1>MAIL CLIENT</H1>
 <pre>
 Mail client
 
