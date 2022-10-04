@@ -5,10 +5,8 @@
 <li><a href="#mailclient">Simple Mail Client - Java</li>
 </ol>
 <div id="mailclient">
-<H1>MAIL CLIENT</H1>
+<H3>Mail client</H3>
 <pre>
-Mail client
-
 Audience : mail users
 Duration:5Hrs
 
@@ -83,12 +81,11 @@ Rest of the functionalities will be provided by View,Controller Classes
 
 
 Technical details
-
- * MailDomain instance will be created at once 
-
- * it will be accessed by the controller classses
-
- * view classes do operations via controller classes
+<ul>
+ <li>MailDomain instance will be created at once </li>
+ <li>it will be accessed by the controller classses</li>
+ <li>view classes do operations via controller classes</li>
+ </ul>
 </pre>
 </div>
 </div>
